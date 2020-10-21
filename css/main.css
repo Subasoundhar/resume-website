@@ -90,6 +90,9 @@ body{
     color: #231d2a;
     font-size: 15px;
 }
+.main-bottom a:hover{
+    color: deeppink;
+}
 header{
     display: flex;
     justify-content: space-between;
@@ -194,7 +197,7 @@ header{
     border: 1px solid #f69bac;
     cursor: pointer;
 }
-.about{
+#about{
     margin-top: -157px;
 }
 .about-heading h2,
@@ -498,7 +501,7 @@ header{
     letter-spacing: 3px;
     padding-bottom: 3px;
 }
-.resume{
+#resume{
     padding-top: 50px;
 }
 .education{
